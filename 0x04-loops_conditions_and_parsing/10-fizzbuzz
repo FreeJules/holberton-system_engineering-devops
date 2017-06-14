@@ -8,13 +8,13 @@
 COUNTER=1
 while [  $COUNTER -le 100 ];
 do
-    if [ $(($COUNTER%3)) -eq 0 ]  &&  [ $(($COUNTER%5)) -eq 0 ]
+    if [ $((COUNTER%3)) -eq 0 ]  &&  [ $((COUNTER%5)) -eq 0 ]
     then
         echo "FizzBuzz"
-    elif [ $(($COUNTER%3)) -eq 0 ]
+    elif [ $((COUNTER%3)) -eq 0 ]
     then
 	echo "Fizz"
-    elif [ $(($COUNTER%5)) -eq 0 ]
+    elif [ $((COUNTER%5)) -eq 0 ]
     then
         echo "Buzz"
     else
