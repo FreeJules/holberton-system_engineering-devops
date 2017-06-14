@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#displays Holberton School 10 times using while loop
+COUNTER=0
+while [  $COUNTER -lt 10 ]; 
+do
+    echo "Holberton School"
+    let COUNTER=COUNTER+1 
+done
