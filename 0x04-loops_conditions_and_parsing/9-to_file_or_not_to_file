@@ -8,14 +8,17 @@
 #if the file is no empty: holbertonschool file is not empty
 #if the file is a regular file: holbertonschool is a regular file
 #if the file is not a regular file: (nothing)
-if [ -e "holbertonschool" ]; then
+if [ -e "holbertonschool" ]
+then
     echo "holbertonschool file exists"
-    if [ -s "holbertonschool" ]; then
+    if [ -s "holbertonschool" ]
+    then
 	echo "holbertonschool file is not empty"
     else
 	echo "holbertonschool file is empty"
     fi
-    if [ -f "holbertonschool" ]; then
+    if [ -f "holbertonschool" ]
+    then
 	echo "holbertonschool file is a regular file"
     fi
 else
