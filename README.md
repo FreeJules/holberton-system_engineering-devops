@@ -1,4 +1,6 @@
-### This project covers shell/bash projects and excercises:
+## System Engineering - DevOps
+
+#### - This project covers shell/bash projects and excercises:
 
 - 0x00-shell_basics
 - 0x01-shell_permissions
