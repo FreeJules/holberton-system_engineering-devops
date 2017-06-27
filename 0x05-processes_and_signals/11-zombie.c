@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <sys/types.h>
 /**
  * infite_while - 1 sec delay function
  * Return: Always 0 on success, 1 on error
