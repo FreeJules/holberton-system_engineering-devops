@@ -24,20 +24,20 @@
 # instead of saying that it is already started.
 case "$1" in
     start)
-	sudo ./manage_my_process &
-	sudo echo $$ | cat > /var/run/my_process.pid &
+	./manage_my_process &
+	echo "$!" | cat > /var/run/my_process.pid &
 	echo $"manage_my_process started"
 	;;
     stop)
-	sudo pkill -f ./manage_my_process &
-	sudo rm /var/run/my_process.pid &
+	pkill -f ./manage_my_process &
+	rm /var/run/my_process.pid &
 	echo $"manage_my_process stopped"
 	;;
     restart)
-	sudo pkill -f ./manage_my_process &
-	sudo rm /var/run/my_process.pid &
-	sudo ./manage_my_process &
-	sudo echo $$ | cat > /var/run/my_process.pid &
+	pkill -f ./manage_my_process &
+	rm /var/run/my_process.pid &
+	./manage_my_process &
+	echo "$!" | cat > /var/run/my_process.pid &
 	echo $"manage_my_process restarted"
 	;;
     *)
