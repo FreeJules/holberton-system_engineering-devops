@@ -1,4 +1,6 @@
-## Read:
+## Loops, Conditions and Parsing
+
+### Read:
 
 - The for loop
 - The while loop
@@ -12,7 +14,7 @@
 - help: for, while, until, if
 - What you should learn from this project
 
-## How to create SSH keys
+### How to create SSH keys
 
 - What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
 - How to use while, until and for loops
@@ -20,7 +22,7 @@
 - How to use the cut command
 - What are files and other comparison operators, and how to use them
 
-##Requirements
+### Requirements
 
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted on Ubuntu 14.04 LTS
@@ -32,8 +34,7 @@
 - The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 - The second line of all your Bash scripts should be a comment explaining what is the script doing
 
-## Shellcheck
+### Shellcheck
 
 - Shellcheck is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax, semantic and provide advice on edge cases that you might not have thought about. Shellcheck is your friend! All your Bash scripts must pass Shellcheck without any error or you will not get any point on the task.
-
 - Shellcheck is available on school's computers, if you want to use it on your own computer, here is how to install it.
