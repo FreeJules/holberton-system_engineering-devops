@@ -1,4 +1,6 @@
-### In this project we learn following commands through writing scripts for each of them and making them executable.
+### Shell Basics
+
+- In this project we learn following commands through writing scripts for each of them and making them executable.
 
 ## List of what each script does:
 
@@ -56,4 +58,4 @@
 - In your terminal:
 - $ sudo apt-get update
 - $ sudo apt-get upgrade
-- $sudo apt-get install emacs
+- $ sudo apt-get install emacs
