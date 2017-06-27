@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "alias ls='rm *'" | cat >> file1
