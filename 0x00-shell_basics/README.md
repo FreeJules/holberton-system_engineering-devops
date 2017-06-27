@@ -1,8 +1,8 @@
-### Shell Basics
+## Shell Basics
 
 - In this project we learn following commands through writing scripts for each of them and making them executable.
 
-## List of what each script does:
+### List of what each script does:
 
 - 0-current_working_directory - Prints the absolute path name of the current working directory
 - 1-listit - Displays the contents list of your current directory
@@ -24,13 +24,13 @@
 - 17-tree - Creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory. You are only allowed to use two spaces in your script, not more.
 - 18-commas - Lists all the files and directories of the current directory, separated by commas (,).
 
-## Read:
+### Read:
 
 - Read the page A Guided Tour of Emacs from the GNU, and go through the Emacs tutorial: Open emacs by typing emacs in your shell. Then type C-h t* to open the tutorial and go through it.
 
 - * C-h t means hold the CONTROL key while typing the character h and then type t.
 
-## What you should learn from this project
+### What you should learn from this project
 
 - What is Emacs
 - Who is Richard Stallman
@@ -45,7 +45,7 @@
 - Cancelling half-entered commands
 - Quitting
 
-## Requirements
+### Requirements
 
 - If Emacs is not installed on the VM, you can use this command to install it: sudo apt-get update; sudo apt-get install emacs
 - Allowed editors: Emacs
@@ -53,7 +53,7 @@
 - Each answer should be written in a file with the same syntax as Emacs's documentation (ex: C-h t)
 - Your file should only contain the command, and nothing else
 
-## Install emacs
+### Install emacs
 
 - In your terminal:
 - $ sudo apt-get update
