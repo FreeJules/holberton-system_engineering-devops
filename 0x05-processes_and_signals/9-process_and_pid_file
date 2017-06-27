@@ -5,12 +5,12 @@
 # Displays Y U no love me?! when receiving a SIGINT signal
 # Deletes the file /var/run/holbertonscript.pid and terminate itself when
 # receiving a SIGQUIT or SIGTERM signal
-trap 'echo I hate the kill command; kill -9 $$; sudo rm /var/run/holbertonscript.pid' SIGTERM SIGQUIT
-trap 'echo Y U no love me?!; kill -9 $$' SIGINT
+trap 'echo I hate the kill command; rm /var/run/holbertonscript.pid; kill -9 $$' SIGTERM
+trap 'echo Y U no love me?!' SIGINT
+trap 'rm /var/run/holbertonscript.pid; kill -9 $$' SIGQUIT
 echo $$ | cat > /var/run/holbertonscript.pid
 CONDITION=:
 while [ $CONDITION ]
 do
     echo "To infinity and beyond"
-    sleep 2;
 done
