@@ -4,6 +4,5 @@
 sudo apt-get update
 sudo apt-get -y install nginx
 sudo service nginx start
-echo "Holberton School" | sudo tee /usr/share/nginx/html/index.html
 sed -i '26 i \\trewrite ^/redirect_me https://www.holbertonschool.com/ permanent;' /etc/nginx/sites-available/default
 sudo service nginx restart
