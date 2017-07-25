@@ -1,5 +1,11 @@
 ## 0x0C. Web stack debugging #1
 
+### Read
+
+- [Web stack debugging](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server)
+- [Uptime](http://whatis.techtarget.com/definition/uptime-and-downtime)
+- [Docker](http://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/)
+
 ### Requirements
 
 - Allowed editors: vi, vim, emacs
