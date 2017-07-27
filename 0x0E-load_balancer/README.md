@@ -1,8 +1,12 @@
 ## 0x0E. Load balancer
 
 Concepts:
-- [Load balancer](https://intranet.hbtn.io/concepts/46)
-- [Web stack debugging](https://intranet.hbtn.io/concepts/68)
+- [Load balancing](http://www.thegeekstuff.com/2016/01/load-balancer-intro/)
+- [Load balancing algorithms](https://devcentral.f5.com/articles/intro-to-load-balancing-for-developers-ndash-the-algorithms)
+- [Web stack debugging-5 commands](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server)
+- [uptime](https://whatis.techtarget.com/definition/uptime-and-downtime)
+- [load average](https://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages)
+- [Linux load average](https://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 
 ![lb](https://user-images.githubusercontent.com/6486822/29430135-214b6c86-8348-11e7-963d-c0f23cacf0d7.png)
 
