@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# prints record type and ip of subdomains
+declare -a subdomains=("www" "lb-01" "web-01" "web-02")
+# commnad line: dig julijalee.online | grep -A1 'ANSWER SECTION:' | tail -n -1 | awk '{ print $4/$5 }'
+domain=$1
+func() {
+## loop through the above array of subdomains
+for i in "${subdomains[@]}"
+do
+    ip=$i'.'$domain
+    printf "The subdomain $i is a %s record and points to %s\n" \
+    "$(dig "$ip" | grep -A1 'ANSWER SECTION:' | tail -n -1 | awk '{ print $4 }')" \
+    "$(dig "$ip" | grep -A1 'ANSWER SECTION:' | tail -n -1 | awk '{ print $5 }')"
+done
+}
+
+if [ -z "$2" ]                           # Is parameter #2 is zero (doesn't exsist)
+   then
+    func
+   else
+    subd=$2'.'$domain                    # Create subdomain from args
+    printf "The subdomain $2 is a %s record and points to %s\n" \
+    "$(dig "$subd" | grep -A1 'ANSWER SECTION:' | tail -n -1 | awk '{ print $4 }')" \
+    "$(dig "$subd" | grep -A1 'ANSWER SECTION:' | tail -n -1 | awk '{ print $5 }')"
+fi
