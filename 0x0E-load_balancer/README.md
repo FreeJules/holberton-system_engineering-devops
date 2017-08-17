@@ -1,6 +1,6 @@
 ## 0x0E. Load balancer
 
-For this project, students are expected to look at these concepts:
+Concepts:
 - [Load balancer](https://intranet.hbtn.io/concepts/46)
 - [Web stack debugging](https://intranet.hbtn.io/concepts/68)
 
