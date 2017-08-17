@@ -1,8 +1,8 @@
 ## 0x0E. Load balancer
 
-- For this project, students are expected to look at these concepts:
-[Load balancer](https://intranet.hbtn.io/concepts/46)
-[Web stack debugging](https://intranet.hbtn.io/concepts/68)
+: For this project, students are expected to look at these concepts:
+- [Load balancer](https://intranet.hbtn.io/concepts/46)
+- [Web stack debugging](https://intranet.hbtn.io/concepts/68)
 
 ![lb](https://user-images.githubusercontent.com/6486822/29430135-214b6c86-8348-11e7-963d-c0f23cacf0d7.png)
 
