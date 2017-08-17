@@ -4,9 +4,11 @@
 [Load balancer](https://intranet.hbtn.io/concepts/46)
 [Web stack debugging](https://intranet.hbtn.io/concepts/68)
 
+![lb](https://user-images.githubusercontent.com/6486822/29430135-214b6c86-8348-11e7-963d-c0f23cacf0d7.png)
+
 ### Read:
 
-- [Introduction to load-balancing and HAproxy](Introduction to load-balancing and HAproxy)
+- [Introduction to load-balancing and HAproxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 - [HTTP header](https://www.techopedia.com/definition/27178/http-header)
 
 ##### You have been given 2 additional servers:
