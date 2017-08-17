@@ -14,7 +14,8 @@ For this project, students are expected to look at these concepts:
 - You have been given 2 additional servers:
 
 [STUDENT_ID]-web-02
-STUDENT_ID]-lb-01
+
+[STUDENT_ID]-lb-01
 
 - Let's improve our web stack so that there is [redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) for our web servers. This will allow us to be able to accept more traffic by doubling the number of web servers, and to make our infrastructure more reliable. If one web server fails, we will still have a second one to handle requests.
 
