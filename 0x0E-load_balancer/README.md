@@ -1,7 +1,8 @@
 ## 0x0E. Load balancer
 
 Concepts:
-- [Load balancer](https://intranet.hbtn.io/concepts/46)
+- [Load balancing](http://www.thegeekstuff.com/2016/01/load-balancer-intro/)
+- [Load balancing algorithms](https://devcentral.f5.com/articles/intro-to-load-balancing-for-developers-ndash-the-algorithms)
 - [Web stack debugging](https://intranet.hbtn.io/concepts/68)
 
 ![lb](https://user-images.githubusercontent.com/6486822/29430135-214b6c86-8348-11e7-963d-c0f23cacf0d7.png)
