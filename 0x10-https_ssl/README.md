@@ -5,8 +5,8 @@
 - [What is HTTPS?](https://www.instantssl.com/ssl-certificate-products/https.html)
 - [What are the 2 main elements that SSL is providing](https://www.sslshopper.com/why-ssl-the-purpose-of-using-ssl-certificates.html)
 - [HAproxy SSL termination on Ubuntu14.04](https://www.digitalocean.com/community/tutorials/how-to-secure-haproxy-with-let-s-encrypt-on-ubuntu-14-04)
-- [SSL termination](SSL termination)
-- [Bash function](Bash function)
+- [SSL termination](https://en.wikipedia.org/wiki/TLS_termination_proxy)
+- [Bash function](http://tldp.org/LDP/abs/html/complexfunct.html)
 - [Root and sub domain](http://support.landingi.com/article/147-the-root-domain-and-sub-domain-differences)
 - man: [awk](http://man7.org/linux/man-pages/man1/awk.1p.html), [dig](https://linux.die.net/man/1/dig)
 
