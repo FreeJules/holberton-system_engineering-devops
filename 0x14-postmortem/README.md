@@ -19,6 +19,6 @@
   * it was ran with a script that by default has a port setup to 80 but the server was running on port 8080
   * sysadmin had to modify haproxy.cfg file manually
 
-* Corrective and preventative measures must contain:
+* Corrective and preventative measures:
   * script needs to be updated so that it asks for the port when it's ran
   * all the servers should be set up with the script as to avoid big differences and prevent these kind of mistakesfrom happening
