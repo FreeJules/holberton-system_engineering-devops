@@ -21,4 +21,4 @@
 
 * Corrective and preventative measures:
   * script needs to be updated so that it asks for the port when it's ran
-  * all the servers should be set up with the script as to avoid big differences and prevent these kind of mistakesfrom happening
+  * all the servers should be set up with the script as to avoid big differences and prevent these kind of mistakes from happening
