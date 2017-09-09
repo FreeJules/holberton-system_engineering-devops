@@ -1,5 +1,7 @@
 ## 0x14. Application server #0
 
+![as](https://user-images.githubusercontent.com/6486822/30235893-e08d6b8a-94c3-11e7-858c-6db76be82f7f.jpg)
+
 ###  Read
 - [Application server vs web server](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
 - [How To Serve a Flask Application with Gunicorn and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-14-04)
