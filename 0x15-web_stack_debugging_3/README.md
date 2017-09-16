@@ -15,3 +15,9 @@
 - Your Puppet manifests first line must be a comment explaining what the Puppet manifest is about
 - Your Puppet manifests files must end with the extension .pp
 - Files will be checked with Puppet v3.4
+
+### References
+
+- [The WordPress Error Log is your Friend - Snap Creek Software](https://snapcreek.com/blog/wordpress-error-log-friend/)
+- [How to Create NGINX Rewrite Rules | NGINX](https://www.nginx.com/blog/creating-nginx-rewrite-rules/)
+- [Strace: Intro tutorial](https://www.youtube.com/watch?v=EG0ihttnEJI)
