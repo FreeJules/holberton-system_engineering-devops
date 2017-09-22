@@ -2,7 +2,9 @@
 
 ### Read
 
-[Reddit API Documentation](https://www.reddit.com/dev/api/)
+- [Reddit API Documentation](https://www.reddit.com/dev/api/)
+- [Too many requests](https://www.reddit.com/r/redditdev/comments/3qbll8/429_too_many_requests/?st=j7ux1gs5&sh=314bcaa8)
+- [Accessing subreddit](https://stackoverflow.com/questions/6183318/getting-new-posts-from-a-subreddit-in-json)
 
 ### What you should learn from this project
 
