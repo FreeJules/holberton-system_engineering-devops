@@ -26,9 +26,24 @@
 
 ### Read:
 
-- Read the page A Guided Tour of Emacs from the GNU, and go through the Emacs tutorial: Open emacs by typing emacs in your shell. Then type C-h t* to open the tutorial and go through it.
+- Read the page [A Guided Tour of Emacs from the GNU](https://www.gnu.org/software/emacs/tour/), and go through the Emacs tutorial: Open emacs by typing emacs in your shell. Then type C-h t* to open the tutorial and go through it.
 
 - * C-h t means hold the CONTROL key while typing the character h and then type t.
+- [Everything you need to know to start with C](https://docs.google.com/presentation/d/1ghto-TsXqgPRuEVmiCp7GvGttobdTLF4Yq8IRXwzvHY/edit#slide=id.p)
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+- ["C" Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+- [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
+* Learning to program in C
+  * [part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
+  * [part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
+- [Betty](https://github.com/holbertonschool/Betty/wiki)
+* man:
+  * [gcc](https://linux.die.net/man/1/gcc)
+  * [printf](https://linux.die.net/man/3/printf)
+  * [puts](https://linux.die.net/man/3/puts)
+  * [putchar](https://linux.die.net/man/3/putchar)
+- [Linus Torvalds](http://harmful.cat-v.org/software/c++/linus)
 
 ### What you should learn from this project
 
