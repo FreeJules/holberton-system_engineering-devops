@@ -26,7 +26,7 @@
 
 ### Read:
 
-- Read the page A Guided Tour of Emacs from the GNU, and go through the Emacs tutorial: Open emacs by typing emacs in your shell. Then type C-h t* to open the tutorial and go through it.
+- Read the page [A Guided Tour of Emacs from the GNU](https://www.gnu.org/software/emacs/tour/), and go through the Emacs tutorial: Open emacs by typing emacs in your shell. Then type C-h t* to open the tutorial and go through it.
 
 - * C-h t means hold the CONTROL key while typing the character h and then type t.
 
