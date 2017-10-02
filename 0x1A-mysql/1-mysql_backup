@@ -2,5 +2,5 @@
 # script that generates a MySQL dump
 PASSWORD=$1
 DATE=$(date +%d-%m-%Y)
-mysqldump -u root -p "$PASSWORD" --opt --all-databases > backup.sql
+mysqldump -u root -p "$PASSWORD" --all-databases > backup.sql
 tar -cvzf "$DATE.tar.gz" backup.sql
