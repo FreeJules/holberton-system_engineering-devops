@@ -1,4 +1,4 @@
-## 0x0C. Web stack debugging #1
+## Web stack debugging #1
 
 ### Read
 

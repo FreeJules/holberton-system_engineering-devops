@@ -1,4 +1,4 @@
-## 0x15. Web stack debugging #3
+## Web stack debugging #3
 
 - Wordpress is a very popular tool, it allows to run blogs, portfolios, e-commerce and company websites... It actually powers 26% of the web, so there is a fair chance that you will end working with it at some point in your career.
 

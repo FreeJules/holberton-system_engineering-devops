@@ -27,3 +27,5 @@
 - 0x16-api
 - 0x17-web_stack_debugging_4
 - 0x18-api_advanced
+- 0x1A-mysql
+- 0x1C-webstack_monitoring
