@@ -4,7 +4,7 @@
 - [Monitoring](https://intranet.hbtn.io/concepts/13)
 - [Server](https://intranet.hbtn.io/concepts/67)
 
-Monitoring project
+![monitoring](https://user-images.githubusercontent.com/6486822/31350953-fb76188e-acdd-11e7-9359-26d9a9ba6646.png)
 
 ### Read
 
