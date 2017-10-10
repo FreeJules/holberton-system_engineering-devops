@@ -1,4 +1,4 @@
-## 0x0E. Load balancer
+## Load balancer
 
 Concepts:
 - [Load balancing](http://www.thegeekstuff.com/2016/01/load-balancer-intro/)
