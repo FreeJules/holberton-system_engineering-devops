@@ -1,25 +1,35 @@
-## 0x09. Web server
+## Web server
+
+### Concepts:
+
+- [DNS](https://intranet.hbtn.io/concepts/12)
+- [Web Server](https://intranet.hbtn.io/concepts/17)
+- [CI/CD](https://intranet.hbtn.io/concepts/43)
+- [Docker](https://intranet.hbtn.io/concepts/65)
+- [Web stack debugging](https://intranet.hbtn.io/concepts/68)
+
+![ws](https://user-images.githubusercontent.com/6486822/31370214-94e9594e-ad3e-11e7-8204-9fd882465222.png)
 
 ### Read
 
-- How the web works
-- Nginx
-- Root and sub domain
-- HTTP requests
-- HTTP redirection
-- Not found HTTP response code
-- Logs files on Linux
-- man: scp, curl
+- [How the web works](https://intranet.hbtn.io/rltoken/4tRRzyyETAySzU-bgNGLSw)
+- [Nginx](https://intranet.hbtn.io/rltoken/H9OfhUnBDdxV-QQnIucMlA)
+- [Root and sub domain](https://intranet.hbtn.io/rltoken/jP4ZmcTdgTMWttB_rmEcdA)
+- [HTTP requests](https://intranet.hbtn.io/rltoken/C9s3U62JbiOAvn9WCoxKsA)
+- [HTTP redirection](https://intranet.hbtn.io/rltoken/kI4vRQ6vc45Wfbdo3UD8Lw)
+- [Not found HTTP response code](https://intranet.hbtn.io/rltoken/5UvC588x2hZR7dm6eRFPoQ)
+- [Logs files on Linux](https://intranet.hbtn.io/rltoken/bkqQ72HZVAV65G8nB503Pw)
+- man: [scp](https://linux.die.net/man/1/scp), [curl](https://linux.die.net/man/1/curl)
 
 ### What you should learn from this project
 
 - What DNS stands for
 - What is DNS main role
-- What are DNS record types for:
-- A
-- CNAME
-- TXT
-- MX
+* What are DNS record types for:
+  * A
+  * CNAME
+  * TXT
+  * MX
 - What is the main role of a web server
 
 ### Requirements
