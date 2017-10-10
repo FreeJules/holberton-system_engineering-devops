@@ -1,30 +1,30 @@
-## 0x0A. Web infrastructure design #0
+## Web infrastructure design #0
 
 #### Concepts:
-- DNS
-- Monitoring
-- Web Server
-- Network basics
-- Load balancer
-- Server
+- [DNS](https://intranet.hbtn.io/concepts/12)
+- [Monitoring](https://intranet.hbtn.io/concepts/13)
+- [Web Server](https://intranet.hbtn.io/concepts/17)
+- [Network basics](https://intranet.hbtn.io/concepts/33)
+- [Load balancer](https://intranet.hbtn.io/concepts/46)
+- [Server](https://intranet.hbtn.io/concepts/67)
 
 ### Read
 
 #### Task #0:
 
-- What is a database
-- DNS record types
-- Single point of failure
+- [What is a database](https://intranet.hbtn.io/rltoken/fzWUqeKhv0yi4xmF3iOMVA)
+- [DNS record types](https://intranet.hbtn.io/rltoken/IZqIoeJU36vfurWiKpcB8g)
+- [Single point of failure](https://intranet.hbtn.io/rltoken/wYpewVpIp9PSqqL27RPafg)
 
 #### Task #1:
 
-- How to avoid downtime when deploying new code
-- High availability cluster (active-active/active-passive)
+- [How to avoid downtime when deploying new code](https://intranet.hbtn.io/rltoken/Mlvynt0OgLQXrxjrC5Wlnw)
+- [High availability cluster (active-active/active-passive)](https://intranet.hbtn.io/rltoken/POX3jE0S6TChQHSYQraYeQ)
 
 #### Task #2:
 
-- What is HTTPS
-- What is a firewall
+- [What is HTTPS](https://intranet.hbtn.io/rltoken/cVymcGiYNKh-11Ai7xTQgw)
+- [What is a firewall](https://intranet.hbtn.io/rltoken/TSlh7H4wYm632BsAiUwKbg)
 
 ### What you should learn from this project
 
