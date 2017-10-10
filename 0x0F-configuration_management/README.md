@@ -1,4 +1,4 @@
-## 0x0F Configuration management - CI/CD
+## Configuration management - CI/CD
 
 ### Readme
 
