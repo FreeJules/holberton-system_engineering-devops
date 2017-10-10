@@ -1,4 +1,4 @@
-## 0x13. Web stack debugging #2
+## Web stack debugging #2
 
 ### Requirements
 
