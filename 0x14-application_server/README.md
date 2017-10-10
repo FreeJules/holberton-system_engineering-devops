@@ -1,4 +1,4 @@
-## 0x14. Application server #0
+## Application server #0
 
 ![as](https://user-images.githubusercontent.com/6486822/30235893-e08d6b8a-94c3-11e7-858c-6db76be82f7f.jpg)
 
