@@ -1,4 +1,4 @@
-## 0x0B. Networking basics #1
+## Networking basics #1
 
 ### Read
 
