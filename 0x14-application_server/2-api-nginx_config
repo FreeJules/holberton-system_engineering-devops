@@ -1,0 +1,5 @@
+# the route /api/ points to Gunicorn (config in etc/init)
+	location /api {
+                 include proxy_params;
+                 proxy_pass http://127.0.0.1:8003;
+        }
