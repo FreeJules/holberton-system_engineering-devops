@@ -1,7 +1,7 @@
 # /etc/nginx/sites-available/default changes
 	server_name 66.70.184.246;
         location /static {
-                alias /home/julija/AirBnB_clone_v4/web_dynamic/static;
+                alias /home/ubuntu/AirBnB_clone_v4/web_dynamic/static;
         }
 
 	location / {
