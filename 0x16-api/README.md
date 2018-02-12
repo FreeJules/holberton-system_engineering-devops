@@ -5,7 +5,7 @@
 - [Friends don't let friends program in shell script](https://www.turnkeylinux.org/blog/friends-dont-let-friends-program-shell-script)
 - [What is an API](http://www.webopedia.com/TERM/A/API.html)
 - [What is a REST API](https://www.sitepoint.com/developers-rest-api/)
-- [Csv](https://docs.python.org/2/library/csv.html#)
+- [Csv Library](https://docs.python.org/2/library/csv.html#)
 - [What are microservices](https://smartbear.com/learn/api-design/what-are-microservices/)
 - [PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://www.python.org/dev/peps/pep-0008/)
 
